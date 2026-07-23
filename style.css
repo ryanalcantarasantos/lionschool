@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  .cabecalho{
+    width: 100%;
+    height: 120px;
+    background-color: #3347B0;
+    display: flex;
+  }
+
+  .leao{
+    position: absolute;
+    display: flex;
+    margin-left: 115px;
+    margin-top: 17px;
+  }
+
+   .sair{
+    position: absolute;
+    display: flex;
+    margin-left: 2300px;
+    margin-top: 32px;
+  }
+
+  .curso{
+    position: absolute;
+    display: flex;
+    margin-left: 255px;
+    margin-top: 285px;
+  }
+
+  .pc{
+    position: absolute;
+    display: flex;
+    margin-left: 165px;
+    margin-top: 465px;
+  }
+
+  .menina{
+    position: absolute;
+    display: flex;
+    margin-left: 1135px;
+    margin-top: 345px;
+  }
+
+  .ds{
+    position: absolute;
+    display: flex;
+    margin-left: 1975px;
+    margin-top: 265px;
+  }
+
+  .redes{
+    position: absolute;
+    display: flex;
+    margin-left: 1975px;
+    margin-top: 525px;
+  }
+
+  .rodape{
+    width: 100%;
+    height: 120px;
+    background-color: #3347B0;
+    display: flex;
+  }
