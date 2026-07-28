@@ -68,8 +68,6 @@
     margin-top: 1000px;
   }
 
-
-
   .telefone{
     position: absolute;
     margin-left: 175px;
@@ -95,4 +93,48 @@
     margin-left: 225px;
     margin-top: -575px;
     position: absolute;
+  }
+
+  .email{
+    position: absolute;
+    margin-left: 175px;
+    margin-top: -525px;
+    width: 1%;
+    height: 7%;
+  }
+
+  .arroba{
+    color: white;
+    display: flex;
+    margin-left: 225px;
+    margin-top: -525px;
+    position: absolute;
+  }
+
+  .local{
+    position: absolute;
+    margin-left: 175px;
+    margin-top: -475px;
+    width: 1%;
+    height: 9%;
+  }
+
+  .rua{
+    color: rgb(255, 255, 255);
+    display: flex;
+    margin-left: 225px;
+    margin-top: -475px;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .copy{
+    color: rgb(255, 255, 255);
+    display: flex;
+    margin-left: 1100px;
+    margin-top: -575px;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
   }
